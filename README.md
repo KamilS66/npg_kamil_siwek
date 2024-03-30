@@ -1,1 +1,1 @@
-Linijka przykładowego tekstu
+Linijka przykładowego inaczej zmienionego tekstu
